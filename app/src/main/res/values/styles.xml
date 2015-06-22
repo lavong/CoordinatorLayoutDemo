@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/im_green</item>
+        <item name="colorPrimaryDark">@color/im_green_trans</item>
+        <item name="colorAccent">@color/im_green_trans</item>
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+</resources>
